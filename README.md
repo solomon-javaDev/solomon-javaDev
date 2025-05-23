@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Solomon Bakka
 - 👀 I’m interested in Java and everything about it
-- 🌱 I’m currently learning JavaFx and trying to build applications related to business management though I also prefer gaming
-- 💞️ I’m looking to collaborate on all kinds of projects involving Java and business systems.
-- 📫 How to reach me: You can reach me via my WhatsApp +256701748542 and my email: solomonbakka1@gmail.com
+- 🌱 I’m currently doing a Bachelor's degree in Biochemistry at Makerere University.
+- 📫 How to reach me: You can reach me via my WhatsApp +256762206572 and my email: solomonbakka1@gmail.com, solomonbakkamwesigwa@gmail.com, or my personal phone +256753433852
 I am very glad to have all your company. 
 
 Generous programmer🗡️🇩🇪
